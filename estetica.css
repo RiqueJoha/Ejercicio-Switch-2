@@ -1,0 +1,19 @@
+body, #opciones-reserva, #info-reserva{
+    display: grid;
+    place-content: center;
+    background-color: rgb(169, 163, 241);
+}
+
+#opciones-reserva,#info-reserva{
+    border: 2px solid black;
+    padding: 20px;
+    background-color: rgb(221, 221, 183);
+}
+
+#info-reserva{
+    margin-top: 20px;
+}
+
+button{
+    background-color: rgb(242, 238, 247);
+}
